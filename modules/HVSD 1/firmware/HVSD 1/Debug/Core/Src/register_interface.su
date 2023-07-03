@@ -1,0 +1,7 @@
+../Core/Src/register_interface.c:38:16:RI_SetRegCommandParser	40	static
+../Core/Src/register_interface.c:112:16:RI_GetRegCommandParser	40	static
+../Core/Src/register_interface.c:155:9:RI_SetReg	120	static
+../Core/Src/register_interface.c:624:9:RI_GetReg	224	static
+../Core/Src/register_interface.c:1263:9:RI_MovString	40	static
+../Core/Src/register_interface.c:1290:9:RI_GetIDSize	24	static
+../Core/Src/register_interface.c:1324:16:RI_GetPtrReg	32	static

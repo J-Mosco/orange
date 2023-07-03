@@ -1,0 +1,4 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/digital_output.c:45:13:DOUT_SetOutputState	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/digital_output.c:85:23:DOUT_GetOutputState	16	static

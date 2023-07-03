@@ -1,0 +1,15 @@
+trajectory_ctrl.c:59:6:TC_Init	1
+trajectory_ctrl.c:107:6:TC_MoveCommand	5
+trajectory_ctrl.c:179:6:TC_FollowCommand	6
+trajectory_ctrl.c:225:6:TC_PositionRegulation	4
+trajectory_ctrl.c:261:6:TC_MoveExecution	11
+trajectory_ctrl.c:326:6:TC_FollowExecution	1
+trajectory_ctrl.c:336:6:TC_EncAlignmentCommand	3
+trajectory_ctrl.c:372:6:TC_RampCompleted	2
+trajectory_ctrl.c:388:6:TC_EncoderReset	3
+trajectory_ctrl.c:407:7:TC_GetCurrentPosition	1
+trajectory_ctrl.c:418:7:TC_GetTargetPosition	1
+trajectory_ctrl.c:428:7:TC_GetMoveDuration	1
+trajectory_ctrl.c:438:17:TC_GetControlPositionStatus	1
+trajectory_ctrl.c:447:15:TC_GetAlignmentStatus	1
+trajectory_ctrl.c:456:6:TC_IncTick	1

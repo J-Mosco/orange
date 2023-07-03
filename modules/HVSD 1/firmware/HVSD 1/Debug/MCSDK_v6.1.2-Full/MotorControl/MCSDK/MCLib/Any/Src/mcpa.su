@@ -1,0 +1,4 @@
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/mcpa.c:31:6:MCPA_dataLog	40	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/mcpa.c:164:6:MCPA_flushDataLog	40	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/mcpa.c:187:6:MCPA_stopDataLog	32	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/mcpa.c:203:9:MCPA_cfgLog	32	static
