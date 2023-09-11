@@ -1,0 +1,5 @@
+potentiometer.c:79:6:POT_Init	1
+potentiometer.c:108:6:POT_Clear	2
+potentiometer.c:138:6:POT_TakeMeasurement	2
+potentiometer.c:175:10:POT_GetValue	1
+potentiometer.c:196:6:POT_ValidValueAvailable	1

@@ -1,0 +1,9 @@
+stm32f4xx_ll_tim.h:2737:22:LL_TIM_SetTriggerOutput	1
+stm32f4xx_ll_tim.h:3204:22:LL_TIM_ClearFlag_CC1	1
+stm32f4xx_ll_tim.h:3215:26:LL_TIM_IsActiveFlag_CC1	2
+stm32f4xx_ll_tim.h:3966:22:LL_TIM_GenerateEvent_UPDATE	1
+stm32f4xx_ll_bus.h:1185:22:LL_APB1_GRP1_EnableClock	1
+stm32f4xx_ll_bus.h:1263:26:LL_APB1_GRP1_IsEnabledClock	1
+stm32f4xx_ll_bus.h:1337:22:LL_APB1_GRP1_DisableClock	1
+pwm_common.c:45:13:startTimers	2
+pwm_common.c:78:13:waitForPolarizationEnd	5

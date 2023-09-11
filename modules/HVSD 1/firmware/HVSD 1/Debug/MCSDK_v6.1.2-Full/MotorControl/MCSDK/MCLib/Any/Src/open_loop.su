@@ -1,0 +1,6 @@
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:50:13:OL_Init	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:73:13:OL_VqdConditioning	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:90:13:OL_UpdateVoltage	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:110:16:OL_GetVoltage	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:126:13:OL_Calc	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:158:13:OL_VF	16	static

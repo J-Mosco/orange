@@ -1,0 +1,3 @@
+inrush_current_limiter.c:59:13:ICL_Init	1
+inrush_current_limiter.c:72:20:ICL_Exec	10
+inrush_current_limiter.c:153:20:ICL_GetState	1

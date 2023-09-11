@@ -1,0 +1,3 @@
+virtual_bus_voltage_sensor.c:47:13:VVBS_Init	1
+virtual_bus_voltage_sensor.c:59:13:VVBS_Clear	1
+virtual_bus_voltage_sensor.c:69:17:VVBS_NoErrors	1

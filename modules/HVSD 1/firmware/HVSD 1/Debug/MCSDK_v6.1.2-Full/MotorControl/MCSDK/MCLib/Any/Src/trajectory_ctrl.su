@@ -1,0 +1,15 @@
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:59:6:TC_Init	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:107:6:TC_MoveCommand	32	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:179:6:TC_FollowCommand	32	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:225:6:TC_PositionRegulation	32	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:261:6:TC_MoveExecution	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:326:6:TC_FollowExecution	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:336:6:TC_EncAlignmentCommand	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:372:6:TC_RampCompleted	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:388:6:TC_EncoderReset	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:407:7:TC_GetCurrentPosition	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:418:7:TC_GetTargetPosition	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:428:7:TC_GetMoveDuration	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:438:17:TC_GetControlPositionStatus	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:447:15:TC_GetAlignmentStatus	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/trajectory_ctrl.c:456:6:TC_IncTick	16	static

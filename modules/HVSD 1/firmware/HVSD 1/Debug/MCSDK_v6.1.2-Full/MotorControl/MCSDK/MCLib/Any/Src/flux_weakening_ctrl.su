@@ -1,0 +1,9 @@
+../Core/Inc/mc_math.h:278:23:MCM_Modulus	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/flux_weakening_ctrl.c:58:13:FW_Init	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/flux_weakening_ctrl.c:81:13:FW_Clear	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/flux_weakening_ctrl.c:112:13:FW_CalcCurrRef	48	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/flux_weakening_ctrl.c:210:13:FW_DataProcess	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/flux_weakening_ctrl.c:258:13:FW_SetVref	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/flux_weakening_ctrl.c:281:17:FW_GetVref	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/flux_weakening_ctrl.c:298:16:FW_GetAvVAmplitude	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/flux_weakening_ctrl.c:314:17:FW_GetAvVPercentage	16	static

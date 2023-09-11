@@ -1,0 +1,10 @@
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:94:13:FF_Init	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:124:13:FF_Clear	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:150:13:FF_VqdffComputation	40	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:221:13:FF_VqdConditioning	32	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:266:13:FF_DataProcess	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:314:13:FF_InitFOCAdditionalMethods	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:340:13:FF_SetFFConstants	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:368:26:FF_GetFFConstants	32	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:397:13:FF_GetVqdff	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/feed_forward_ctrl.c:422:13:FF_GetVqdAvPIout	24	static

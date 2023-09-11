@@ -1,0 +1,5 @@
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/potentiometer.c:79:6:POT_Init	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/potentiometer.c:108:6:POT_Clear	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/potentiometer.c:138:6:POT_TakeMeasurement	24	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/potentiometer.c:175:10:POT_GetValue	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/potentiometer.c:196:6:POT_ValidValueAvailable	16	static

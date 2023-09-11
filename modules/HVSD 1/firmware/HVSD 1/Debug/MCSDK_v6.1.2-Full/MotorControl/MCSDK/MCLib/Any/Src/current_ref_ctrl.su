@@ -1,0 +1,10 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1124:22:LL_TIM_EnableCounter	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1377:22:LL_TIM_SetCounter	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:1609:22:LL_TIM_CC_EnableChannel	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2117:22:LL_TIM_OC_SetCompareCH1	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2134:22:LL_TIM_OC_SetCompareCH2	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2151:22:LL_TIM_OC_SetCompareCH3	16	static
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_tim.h:2168:22:LL_TIM_OC_SetCompareCH4	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/current_ref_ctrl.c:46:13:CRM_Init	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/current_ref_ctrl.c:82:13:CRM_Clear	16	static
+../MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/current_ref_ctrl.c:119:13:CRM_SetReference	16	static

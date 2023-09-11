@@ -31,3 +31,38 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-06-11 16:05:54.505
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-06-30 20:52:09.810 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\voids\.st_workbench\projects\HVSD 1\STM32CubeIDE\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\voids\.st_workbench\projects\HVSD 1\STM32CubeIDE\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-06-30 20:52:35.158
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-06-30 20:52:35.328
+!MESSAGE Log4j initialized with config file C:\Users\voids\Documents\GitHub\orange\modules\HVSD 1\firmware\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-06-30 20:52:54.054
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-06-30 21:03:40.355 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\voids\.st_workbench\projects\HVSDdemo 1\STM32CubeIDE\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\voids\.st_workbench\projects\HVSDdemo 1\STM32CubeIDE\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-06-30 21:04:06.418
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-06-30 21:04:06.541
+!MESSAGE Log4j initialized with config file C:\Users\voids\Documents\GitHub\orange\modules\HVSD 1\firmware\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-06-30 21:04:22.247
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-06-30 21:04:32.124
+!MESSAGE Indexed 'HVSDdemo 1' (66 sources, 142 headers) in 8.68 sec: 10,347 declarations; 45,779 references; 7 unresolved inclusions; 1,201 syntax errors; 5,301 unresolved names (8.6%)
